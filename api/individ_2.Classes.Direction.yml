@@ -1,0 +1,176 @@
+### YamlMime:ManagedReference
+items:
+- uid: individ_2.Classes.Direction
+  commentId: T:individ_2.Classes.Direction
+  id: Direction
+  parent: individ_2.Classes
+  children:
+  - individ_2.Classes.Direction.East
+  - individ_2.Classes.Direction.North
+  - individ_2.Classes.Direction.South
+  - individ_2.Classes.Direction.West
+  langs:
+  - csharp
+  - vb
+  name: Direction
+  nameWithType: Direction
+  fullName: individ_2.Classes.Direction
+  type: Enum
+  source:
+    remote:
+      path: source/repos/lab_6/individ_2/Classes/Direction.cs
+      branch: master
+      repo: https://github.com/stynixkis/Fingerprint.General.git
+    id: Direction
+    path: Classes/Direction.cs
+    startLine: 5
+  assemblies:
+  - individ_2
+  namespace: individ_2.Classes
+  summary: Направления движения
+  example: []
+  syntax:
+    content: public enum Direction
+    content.vb: Public Enum Direction
+- uid: individ_2.Classes.Direction.North
+  commentId: F:individ_2.Classes.Direction.North
+  id: North
+  parent: individ_2.Classes.Direction
+  langs:
+  - csharp
+  - vb
+  name: North
+  nameWithType: Direction.North
+  fullName: individ_2.Classes.Direction.North
+  type: Field
+  source:
+    remote:
+      path: source/repos/lab_6/individ_2/Classes/Direction.cs
+      branch: master
+      repo: https://github.com/stynixkis/Fingerprint.General.git
+    id: North
+    path: Classes/Direction.cs
+    startLine: 10
+  assemblies:
+  - individ_2
+  namespace: individ_2.Classes
+  summary: Движение на север
+  example: []
+  syntax:
+    content: North = 1
+    return:
+      type: individ_2.Classes.Direction
+- uid: individ_2.Classes.Direction.East
+  commentId: F:individ_2.Classes.Direction.East
+  id: East
+  parent: individ_2.Classes.Direction
+  langs:
+  - csharp
+  - vb
+  name: East
+  nameWithType: Direction.East
+  fullName: individ_2.Classes.Direction.East
+  type: Field
+  source:
+    remote:
+      path: source/repos/lab_6/individ_2/Classes/Direction.cs
+      branch: master
+      repo: https://github.com/stynixkis/Fingerprint.General.git
+    id: East
+    path: Classes/Direction.cs
+    startLine: 15
+  assemblies:
+  - individ_2
+  namespace: individ_2.Classes
+  summary: Движение на восток
+  example: []
+  syntax:
+    content: East = 2
+    return:
+      type: individ_2.Classes.Direction
+- uid: individ_2.Classes.Direction.South
+  commentId: F:individ_2.Classes.Direction.South
+  id: South
+  parent: individ_2.Classes.Direction
+  langs:
+  - csharp
+  - vb
+  name: South
+  nameWithType: Direction.South
+  fullName: individ_2.Classes.Direction.South
+  type: Field
+  source:
+    remote:
+      path: source/repos/lab_6/individ_2/Classes/Direction.cs
+      branch: master
+      repo: https://github.com/stynixkis/Fingerprint.General.git
+    id: South
+    path: Classes/Direction.cs
+    startLine: 20
+  assemblies:
+  - individ_2
+  namespace: individ_2.Classes
+  summary: Движение на юг
+  example: []
+  syntax:
+    content: South = 0
+    return:
+      type: individ_2.Classes.Direction
+- uid: individ_2.Classes.Direction.West
+  commentId: F:individ_2.Classes.Direction.West
+  id: West
+  parent: individ_2.Classes.Direction
+  langs:
+  - csharp
+  - vb
+  name: West
+  nameWithType: Direction.West
+  fullName: individ_2.Classes.Direction.West
+  type: Field
+  source:
+    remote:
+      path: source/repos/lab_6/individ_2/Classes/Direction.cs
+      branch: master
+      repo: https://github.com/stynixkis/Fingerprint.General.git
+    id: West
+    path: Classes/Direction.cs
+    startLine: 25
+  assemblies:
+  - individ_2
+  namespace: individ_2.Classes
+  summary: Движение на запад
+  example: []
+  syntax:
+    content: West = 3
+    return:
+      type: individ_2.Classes.Direction
+references:
+- uid: individ_2.Classes
+  commentId: N:individ_2.Classes
+  href: individ_2.html
+  name: individ_2.Classes
+  nameWithType: individ_2.Classes
+  fullName: individ_2.Classes
+  spec.csharp:
+  - uid: individ_2
+    name: individ_2
+    href: individ_2.html
+  - name: .
+  - uid: individ_2.Classes
+    name: Classes
+    href: individ_2.Classes.html
+  spec.vb:
+  - uid: individ_2
+    name: individ_2
+    href: individ_2.html
+  - name: .
+  - uid: individ_2.Classes
+    name: Classes
+    href: individ_2.Classes.html
+- uid: individ_2.Classes.Direction
+  commentId: T:individ_2.Classes.Direction
+  parent: individ_2.Classes
+  href: individ_2.Classes.Direction.html
+  name: Direction
+  nameWithType: Direction
+  fullName: individ_2.Classes.Direction

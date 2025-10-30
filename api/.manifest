@@ -1,0 +1,13 @@
+{
+  "individ_2.Classes": "individ_2.Classes.yml",
+  "individ_2.Classes.DayTime": "individ_2.Classes.DayTime.yml",
+  "individ_2.Classes.DayTime.Afternoon": "individ_2.Classes.DayTime.yml",
+  "individ_2.Classes.DayTime.Evening": "individ_2.Classes.DayTime.yml",
+  "individ_2.Classes.DayTime.Morning": "individ_2.Classes.DayTime.yml",
+  "individ_2.Classes.DayTime.Night": "individ_2.Classes.DayTime.yml",
+  "individ_2.Classes.Direction": "individ_2.Classes.Direction.yml",
+  "individ_2.Classes.Direction.East": "individ_2.Classes.Direction.yml",
+  "individ_2.Classes.Direction.North": "individ_2.Classes.Direction.yml",
+  "individ_2.Classes.Direction.South": "individ_2.Classes.Direction.yml",
+  "individ_2.Classes.Direction.West": "individ_2.Classes.Direction.yml"
+}

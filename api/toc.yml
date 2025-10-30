@@ -1,0 +1,13 @@
+### YamlMime:TableOfContent
+items:
+- uid: individ_2.Classes
+  name: individ_2.Classes
+  type: Namespace
+  items:
+  - uid: individ_2.Classes.DayTime
+    name: DayTime
+    type: Enum
+  - uid: individ_2.Classes.Direction
+    name: Direction
+    type: Enum
+memberLayout: SamePage

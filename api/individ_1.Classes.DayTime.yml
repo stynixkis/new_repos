@@ -1,0 +1,176 @@
+### YamlMime:ManagedReference
+items:
+- uid: individ_1.Classes.DayTime
+  commentId: T:individ_1.Classes.DayTime
+  id: DayTime
+  parent: individ_1.Classes
+  children:
+  - individ_1.Classes.DayTime.Afternoon
+  - individ_1.Classes.DayTime.Evening
+  - individ_1.Classes.DayTime.Morning
+  - individ_1.Classes.DayTime.Night
+  langs:
+  - csharp
+  - vb
+  name: DayTime
+  nameWithType: DayTime
+  fullName: individ_1.Classes.DayTime
+  type: Enum
+  source:
+    remote:
+      path: Classes/Days.cs
+      branch: main
+      repo: https://github.com/stynixkis/new_rep.git
+    id: DayTime
+    path: ../individ_1/Classes/Days.cs
+    startLine: 5
+  assemblies:
+  - individ_1
+  namespace: individ_1.Classes
+  summary: Время суток
+  example: []
+  syntax:
+    content: public enum DayTime
+    content.vb: Public Enum DayTime
+- uid: individ_1.Classes.DayTime.Morning
+  commentId: F:individ_1.Classes.DayTime.Morning
+  id: Morning
+  parent: individ_1.Classes.DayTime
+  langs:
+  - csharp
+  - vb
+  name: Morning
+  nameWithType: DayTime.Morning
+  fullName: individ_1.Classes.DayTime.Morning
+  type: Field
+  source:
+    remote:
+      path: Classes/Days.cs
+      branch: main
+      repo: https://github.com/stynixkis/new_rep.git
+    id: Morning
+    path: ../individ_1/Classes/Days.cs
+    startLine: 10
+  assemblies:
+  - individ_1
+  namespace: individ_1.Classes
+  summary: Утро
+  example: []
+  syntax:
+    content: Morning = 1
+    return:
+      type: individ_1.Classes.DayTime
+- uid: individ_1.Classes.DayTime.Afternoon
+  commentId: F:individ_1.Classes.DayTime.Afternoon
+  id: Afternoon
+  parent: individ_1.Classes.DayTime
+  langs:
+  - csharp
+  - vb
+  name: Afternoon
+  nameWithType: DayTime.Afternoon
+  fullName: individ_1.Classes.DayTime.Afternoon
+  type: Field
+  source:
+    remote:
+      path: Classes/Days.cs
+      branch: main
+      repo: https://github.com/stynixkis/new_rep.git
+    id: Afternoon
+    path: ../individ_1/Classes/Days.cs
+    startLine: 14
+  assemblies:
+  - individ_1
+  namespace: individ_1.Classes
+  summary: День
+  example: []
+  syntax:
+    content: Afternoon = 20
+    return:
+      type: individ_1.Classes.DayTime
+- uid: individ_1.Classes.DayTime.Evening
+  commentId: F:individ_1.Classes.DayTime.Evening
+  id: Evening
+  parent: individ_1.Classes.DayTime
+  langs:
+  - csharp
+  - vb
+  name: Evening
+  nameWithType: DayTime.Evening
+  fullName: individ_1.Classes.DayTime.Evening
+  type: Field
+  source:
+    remote:
+      path: Classes/Days.cs
+      branch: main
+      repo: https://github.com/stynixkis/new_rep.git
+    id: Evening
+    path: ../individ_1/Classes/Days.cs
+    startLine: 18
+  assemblies:
+  - individ_1
+  namespace: individ_1.Classes
+  summary: Вечер
+  example: []
+  syntax:
+    content: Evening = 13
+    return:
+      type: individ_1.Classes.DayTime
+- uid: individ_1.Classes.DayTime.Night
+  commentId: F:individ_1.Classes.DayTime.Night
+  id: Night
+  parent: individ_1.Classes.DayTime
+  langs:
+  - csharp
+  - vb
+  name: Night
+  nameWithType: DayTime.Night
+  fullName: individ_1.Classes.DayTime.Night
+  type: Field
+  source:
+    remote:
+      path: Classes/Days.cs
+      branch: main
+      repo: https://github.com/stynixkis/new_rep.git
+    id: Night
+    path: ../individ_1/Classes/Days.cs
+    startLine: 22
+  assemblies:
+  - individ_1
+  namespace: individ_1.Classes
+  summary: Ночь
+  example: []
+  syntax:
+    content: Night = 41
+    return:
+      type: individ_1.Classes.DayTime
+references:
+- uid: individ_1.Classes
+  commentId: N:individ_1.Classes
+  href: individ_1.html
+  name: individ_1.Classes
+  nameWithType: individ_1.Classes
+  fullName: individ_1.Classes
+  spec.csharp:
+  - uid: individ_1
+    name: individ_1
+    href: individ_1.html
+  - name: .
+  - uid: individ_1.Classes
+    name: Classes
+    href: individ_1.Classes.html
+  spec.vb:
+  - uid: individ_1
+    name: individ_1
+    href: individ_1.html
+  - name: .
+  - uid: individ_1.Classes
+    name: Classes
+    href: individ_1.Classes.html
+- uid: individ_1.Classes.DayTime
+  commentId: T:individ_1.Classes.DayTime
+  parent: individ_1.Classes
+  href: individ_1.Classes.DayTime.html
+  name: DayTime
+  nameWithType: DayTime
+  fullName: individ_1.Classes.DayTime

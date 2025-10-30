@@ -1,0 +1,172 @@
+{
+  "source_base_path": "C:/Users/aagor/source/repos/lab_6/individ_2",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/individ_1.Classes.DayTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/individ_1.Classes.DayTime.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "individ_1.Classes.DayTime",
+      "Summary": "<p sourcefile=\"api/individ_1.Classes.DayTime.yml\" sourcestartlinenumber=\"1\">Время суток</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/individ_1.Classes.Direction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/individ_1.Classes.Direction.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "individ_1.Classes.Direction",
+      "Summary": "<p sourcefile=\"api/individ_1.Classes.Direction.yml\" sourcestartlinenumber=\"1\">Направления движения</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/individ_1.Classes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/individ_1.Classes.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "individ_1.Classes",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/individ_2.Classes.DayTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/individ_2.Classes.DayTime.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "individ_2.Classes.DayTime",
+      "Summary": "<p sourcefile=\"api/individ_2.Classes.DayTime.yml\" sourcestartlinenumber=\"1\">Время суток</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/individ_2.Classes.Direction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/individ_2.Classes.Direction.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "individ_2.Classes.Direction",
+      "Summary": "<p sourcefile=\"api/individ_2.Classes.Direction.yml\" sourcestartlinenumber=\"1\">Направления движения</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/individ_2.Classes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/individ_2.Classes.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "individ_2.Classes",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+### YamlMime:ManagedReference
+items:
+- uid: individ_1.Classes.Direction
+  commentId: T:individ_1.Classes.Direction
+  id: Direction
+  parent: individ_1.Classes
+  children:
+  - individ_1.Classes.Direction.East
+  - individ_1.Classes.Direction.North
+  - individ_1.Classes.Direction.South
+  - individ_1.Classes.Direction.West
+  langs:
+  - csharp
+  - vb
+  name: Direction
+  nameWithType: Direction
+  fullName: individ_1.Classes.Direction
+  type: Enum
+  source:
+    remote:
+      path: Classes/Direction.cs
+      branch: main
+      repo: https://github.com/stynixkis/new_rep.git
+    id: Direction
+    path: ../individ_1/Classes/Direction.cs
+    startLine: 5
+  assemblies:
+  - individ_1
+  namespace: individ_1.Classes
+  summary: Направления движения
+  example: []
+  syntax:
+    content: public enum Direction
+    content.vb: Public Enum Direction
+- uid: individ_1.Classes.Direction.North
+  commentId: F:individ_1.Classes.Direction.North
+  id: North
+  parent: individ_1.Classes.Direction
+  langs:
+  - csharp
+  - vb
+  name: North
+  nameWithType: Direction.North
+  fullName: individ_1.Classes.Direction.North
+  type: Field
+  source:
+    remote:
+      path: Classes/Direction.cs
+      branch: main
+      repo: https://github.com/stynixkis/new_rep.git
+    id: North
+    path: ../individ_1/Classes/Direction.cs
+    startLine: 10
+  assemblies:
+  - individ_1
+  namespace: individ_1.Classes
+  summary: Движение на север
+  example: []
+  syntax:
+    content: North = 1
+    return:
+      type: individ_1.Classes.Direction
+- uid: individ_1.Classes.Direction.East
+  commentId: F:individ_1.Classes.Direction.East
+  id: East
+  parent: individ_1.Classes.Direction
+  langs:
+  - csharp
+  - vb
+  name: East
+  nameWithType: Direction.East
+  fullName: individ_1.Classes.Direction.East
+  type: Field
+  source:
+    remote:
+      path: Classes/Direction.cs
+      branch: main
+      repo: https://github.com/stynixkis/new_rep.git
+    id: East
+    path: ../individ_1/Classes/Direction.cs
+    startLine: 15
+  assemblies:
+  - individ_1
+  namespace: individ_1.Classes
+  summary: Движение на восток
+  example: []
+  syntax:
+    content: East = 2
+    return:
+      type: individ_1.Classes.Direction
+- uid: individ_1.Classes.Direction.South
+  commentId: F:individ_1.Classes.Direction.South
+  id: South
+  parent: individ_1.Classes.Direction
+  langs:
+  - csharp
+  - vb
+  name: South
+  nameWithType: Direction.South
+  fullName: individ_1.Classes.Direction.South
+  type: Field
+  source:
+    remote:
+      path: Classes/Direction.cs
+      branch: main
+      repo: https://github.com/stynixkis/new_rep.git
+    id: South
+    path: ../individ_1/Classes/Direction.cs
+    startLine: 20
+  assemblies:
+  - individ_1
+  namespace: individ_1.Classes
+  summary: Движение на юг
+  example: []
+  syntax:
+    content: South = 0
+    return:
+      type: individ_1.Classes.Direction
+- uid: individ_1.Classes.Direction.West
+  commentId: F:individ_1.Classes.Direction.West
+  id: West
+  parent: individ_1.Classes.Direction
+  langs:
+  - csharp
+  - vb
+  name: West
+  nameWithType: Direction.West
+  fullName: individ_1.Classes.Direction.West
+  type: Field
+  source:
+    remote:
+      path: Classes/Direction.cs
+      branch: main
+      repo: https://github.com/stynixkis/new_rep.git
+    id: West
+    path: ../individ_1/Classes/Direction.cs
+    startLine: 25
+  assemblies:
+  - individ_1
+  namespace: individ_1.Classes
+  summary: Движение на запад
+  example: []
+  syntax:
+    content: West = 3
+    return:
+      type: individ_1.Classes.Direction
+references:
+- uid: individ_1.Classes
+  commentId: N:individ_1.Classes
+  href: individ_1.html
+  name: individ_1.Classes
+  nameWithType: individ_1.Classes
+  fullName: individ_1.Classes
+  spec.csharp:
+  - uid: individ_1
+    name: individ_1
+    href: individ_1.html
+  - name: .
+  - uid: individ_1.Classes
+    name: Classes
+    href: individ_1.Classes.html
+  spec.vb:
+  - uid: individ_1
+    name: individ_1
+    href: individ_1.html
+  - name: .
+  - uid: individ_1.Classes
+    name: Classes
+    href: individ_1.Classes.html
+- uid: individ_1.Classes.Direction
+  commentId: T:individ_1.Classes.Direction
+  parent: individ_1.Classes
+  href: individ_1.Classes.Direction.html
+  name: Direction
+  nameWithType: Direction
+  fullName: individ_1.Classes.Direction

@@ -1,0 +1,54 @@
+### YamlMime:ManagedReference
+items:
+- uid: individ_2.Classes
+  commentId: N:individ_2.Classes
+  id: individ_2.Classes
+  children:
+  - individ_2.Classes.DayTime
+  - individ_2.Classes.Direction
+  langs:
+  - csharp
+  - vb
+  name: individ_2.Classes
+  nameWithType: individ_2.Classes
+  fullName: individ_2.Classes
+  type: Namespace
+  assemblies:
+  - individ_2
+references:
+- uid: individ_2.Classes.DayTime
+  commentId: T:individ_2.Classes.DayTime
+  parent: individ_2.Classes
+  href: individ_2.Classes.DayTime.html
+  name: DayTime
+  nameWithType: DayTime
+  fullName: individ_2.Classes.DayTime
+- uid: individ_2.Classes.Direction
+  commentId: T:individ_2.Classes.Direction
+  parent: individ_2.Classes
+  href: individ_2.Classes.Direction.html
+  name: Direction
+  nameWithType: Direction
+  fullName: individ_2.Classes.Direction
+- uid: individ_2.Classes
+  commentId: N:individ_2.Classes
+  href: individ_2.html
+  name: individ_2.Classes
+  nameWithType: individ_2.Classes
+  fullName: individ_2.Classes
+  spec.csharp:
+  - uid: individ_2
+    name: individ_2
+    href: individ_2.html
+  - name: .
+  - uid: individ_2.Classes
+    name: Classes
+    href: individ_2.Classes.html
+  spec.vb:
+  - uid: individ_2
+    name: individ_2
+    href: individ_2.html
+  - name: .
+  - uid: individ_2.Classes
+    name: Classes
+    href: individ_2.Classes.html

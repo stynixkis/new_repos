@@ -1,0 +1,47 @@
+{
+  "api/individ_1.Classes.DayTime.html": {
+    "href": "api/individ_1.Classes.DayTime.html",
+    "title": "Enum DayTime",
+    "summary": "Enum DayTime Namespace individ_1.Classes Assembly individ_1.dll Время суток public enum DayTime Fields Afternoon = 20 День Evening = 13 Вечер Morning = 1 Утро Night = 41 Ночь"
+  },
+  "api/individ_1.Classes.Direction.html": {
+    "href": "api/individ_1.Classes.Direction.html",
+    "title": "Enum Direction",
+    "summary": "Enum Direction Namespace individ_1.Classes Assembly individ_1.dll Направления движения public enum Direction Fields East = 2 Движение на восток North = 1 Движение на север South = 0 Движение на юг West = 3 Движение на запад"
+  },
+  "api/individ_1.Classes.html": {
+    "href": "api/individ_1.Classes.html",
+    "title": "Namespace individ_1.Classes",
+    "summary": "Namespace individ_1.Classes Enums DayTime Время суток Direction Направления движения"
+  },
+  "api/individ_2.Classes.DayTime.html": {
+    "href": "api/individ_2.Classes.DayTime.html",
+    "title": "Enum DayTime",
+    "summary": "Enum DayTime Namespace individ_2.Classes Assembly individ_2.dll Время суток public enum DayTime Fields Afternoon = 20 День Evening = 13 Вечер Morning = 1 Утро Night = 41 Ночь"
+  },
+  "api/individ_2.Classes.Direction.html": {
+    "href": "api/individ_2.Classes.Direction.html",
+    "title": "Enum Direction",
+    "summary": "Enum Direction Namespace individ_2.Classes Assembly individ_2.dll Направления движения public enum Direction Fields East = 2 Движение на восток North = 1 Движение на север South = 0 Движение на юг West = 3 Движение на запад"
+  },
+  "api/individ_2.Classes.html": {
+    "href": "api/individ_2.Classes.html",
+    "title": "Namespace individ_2.Classes",
+    "summary": "Namespace individ_2.Classes Enums DayTime Время суток Direction Направления движения"
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started",
+    "summary": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction",
+    "summary": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE.",
+    "summary": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}
